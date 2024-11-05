@@ -1,5 +1,6 @@
-# HDGL
-Hyperdimensional Representation Learning for Node Classification and Link Prediction
+# Hyperdimensional Representation Learning for Node Classification and Link Prediction
+
+This repo contains an implementation of the HDGL as described in the WSDM 2025 paper "Hyperdimensional Representation Learning for Node Classification and Link Prediction".
 
 Please use the packages and libraries from March 13, 2024, on Google Colab (refer to the Release Notes at https://colab.research.google.com/notebooks/relnotes.ipynb#scrollTo=87e07d5b) to reproduce the results presented in the paper.
 
